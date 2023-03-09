@@ -1,0 +1,135 @@
+.logo img{
+    height: 60px;
+    width: 90px;
+    border-radius: 15px;
+}
+.set1{
+    display: flex;
+    padding-left: 28px;
+
+}
+body{
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(back.jpg);
+    
+    background-size: cover;
+}
+.name{
+    color: white;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 5px;
+    margin-left: 20px;
+    font-size: 26px;
+}
+.set2 {
+    display: flex;
+    color: white;
+    font-size: 26px;
+    font-weight: bolder;
+    margin-top: 18px;
+    margin-left: 50%;
+   
+    
+
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.main{
+    display: flex;
+}
+/* .home .facilities .offer .contact{
+    margin: 10px;
+} */
+.set2 div{
+    padding-right: 12px;
+}
+.home{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.main2 .de{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 50%;
+    height: 70%;
+    margin-left: 2%;
+    font-size: 20px;
+   
+
+}
+.topic{
+    font-size: 100px;
+}
+.main2{
+    margin-top: 10%;
+    display: flex;
+    margin-top: 4%;
+    
+}
+
+.topic{
+    font-weight: 500;
+}
+.images img{
+    height: 250px;
+    width:250px;
+    border-radius: 15px;
+    transition: transform .2s;
+}
+.images img:hover{
+    transform: scale(1.1);
+}
+.images {
+  margin-left: 150px;
+    
+}
+.de{
+    margin-top: 8%;
+    
+}
+/* footer */
+
+.first{
+    color: yellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 400px;
+    
+}
+.second{
+    color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    width: 30%;
+    margin-top: 20%;
+    margin-left: 10%;
+}
+.content{
+    display: flex;
+}
+.mid{
+    width: 1px;
+    height: 500px;
+    background-color: yellow;
+}
+button{
+    height: 50px;
+    width: 350px;
+    font-size: 20px;
+    background-color: yellow;
+    
+    border-radius: 15px;
+    margin-top: 4%;
+}
+.set2{
+    margin-top: 1%;
+   
+    
+}
+.main{
+    display: flex;
+}
